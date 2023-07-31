@@ -20,7 +20,7 @@ To run the Contact Search Engine project, ensure you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Illusion0-0/BAAZiGAR.git
+   git clone https://github.com/hmrserver/BAAZiGAR.git
    ```
 
 2. Compile the project using your C++ compiler:
